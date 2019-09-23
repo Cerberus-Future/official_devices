@@ -1,7 +1,7 @@
-# Pixel Experience
+# CerberusOS
 ## Official devices application
 
-Devices repository: [PixelExperience-Devices](https://github.com/PixelExperience-Devices)
+Devices repository: [CerberusOS-Devices](https://github.com/Cerberus-Devices)
 
 Before you apply to add your device into our list of official devices, you should know a few things:
 
