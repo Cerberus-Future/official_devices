@@ -9,11 +9,11 @@ Before you apply to add your device into our list of official devices, you shoul
 
 You must fulfill the following requirements before applying:
 
-- [Maintainers requirements](https://github.com/PixelExperience/docs/blob/master/maintainers_requirements.md)
+- [Maintainers requirements](https://github.com/Cerberus-Future/docs/blob/master/device_requirements.md)
 
-- [Device requirements](https://github.com/PixelExperience/docs/blob/master/device_requirements.md)
+- [Device requirements](https://github.com/Cerberus-Future/docs/blob/master/device_requirements.md)
 
-- [Maintainers' code of conduct](https://github.com/PixelExperience/docs/blob/master/maintainers_code_of_conduct.md)
+- [Maintainers' code of conduct](https://github.com/Cerberus-Future/docs/blob/master/maintainers_code_of_conduct.md)
 
 You must be aware that just fulfilling those requirements doesn't mean that you're going to be accept. We will also consider some other points if necessary, like experience or how's your behavior with other people (users or not) and even with some technical stuff.
 
@@ -26,7 +26,7 @@ For each new version, you need to upload the changelog to this repository in the
 
 The changelog file name must match the **.zip** file name and should end with **.txt**
 
-Eg: **.zip** is **PixelExperience_potter-8.1.0-20180207-0418-OFFICIAL.zip**, changelog file name should be **PixelExperience_potter-8.1.0-20180207-0418-OFFICIAL.txt**
+Eg: **.zip** is **Cerberus_beryllium-1.8.3-20190407-0418-OFFICIAL.zip**, changelog file name should be **Cerberus_beryllium-1.8.3-20190407-0418-OFFICIAL.txt**
 
 Maintainers should always try to write a user understable changelog.
 
